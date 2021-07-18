@@ -1,31 +1,3 @@
-* {
-  font-family: "Playfair Display", serif;
-}
-
-.left-box {
-  background-image: url(images/female-section.jpeg);
-  background-repeat: no-repeat;
-  background-size: 500px;
-  height: 1000px;
-}
-.right-box {
-  background-image: url(images/male-section.png);
-  background-repeat: no-repeat;
-  background-size: 500px;
-}
-.half-widthl {
-  width: 50%;
-  padding: 100px;
-  background-image: url(images/female-section.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 900px;
-}
-.half-widthr {
-  width: 50%;
-  padding: 100px;
-  background-image: url(images/male-section.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 900px;
+.nav-link {
+  color: black;
 }
